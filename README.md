@@ -6,13 +6,6 @@ Hashes the **first line** of password entries. Supports single-entry and batch m
 
 ---
 
-## Requirements
-
-* `pass`
-* `coreutils` (`sha1sum`, `find`, `sort`)
-
----
-
 ## Installation
 
 ```bash
